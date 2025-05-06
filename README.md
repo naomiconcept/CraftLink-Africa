@@ -21,9 +21,9 @@ This project is currently in development by multiple contributors and welcomes c
 craftlink-africa/
 │
 ├── index.html # Home page
-├── /css # styles
-│ └── styles.css
-├── /js # javaScript
+├── /css # Stylesheets
+│ └── style.css
+├── /js # JavaScript files
 │ └── script.js
 ├── /assets # Images, fonts, etc.
 └── README.md # Project documentation

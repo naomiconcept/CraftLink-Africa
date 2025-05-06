@@ -23,7 +23,7 @@ craftlink-africa/
 ├── index.html # Home page
 ├── /css # styles
 │ └── styles.css
-├── /js # javaScript
+├── /js # javascript
 │ └── script.js
 ├── /assets # Images, fonts, etc.
 └── README.md # Project documentation
